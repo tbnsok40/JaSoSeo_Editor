@@ -7,6 +7,7 @@
 
 ## 기술 스택
 - 예상: javascript, django, react(maybe)
+<hr>
 
 ## 구성
 ### front
