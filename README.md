@@ -27,3 +27,6 @@ main 화면: 자소서 종류별 rendering
 
 ## developing by Lim Sunghoo
 - 고문: Jang Chihoon, Kim Taehoon
+
+
+- 이거 어케 살리죠,,
