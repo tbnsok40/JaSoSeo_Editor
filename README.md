@@ -28,5 +28,7 @@ main 화면: 자소서 종류별 rendering
 ## developing by Lim Sunghoo
 - 고문: Jang Chihoon, Kim Taehoon
 
+<hr />
 
 - 이거 어케 살리죠,,
+- 학생 때랑 다르게 , db를 활용할 생각을 하게 됐다. 엘라스틱 써야겠네. 검색 = > (제목, 내용, 회사)
