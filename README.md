@@ -6,7 +6,9 @@
 <hr>
 
 ## 기술 스택
-- 예상: javascript, django, react(maybe)
+- Front: materializecss ,react(maybe) -> 키원드 검색 시, 키워드 부분 하이라이트 마크업으로 렌더링
+- Back: Djagno, Elasticsearch: 키워드 검색기능 구현
+
 <hr>
 
 ## 구성
@@ -20,9 +22,11 @@
 > 4. 전체 저장 기능 ()
 > 5. 실시간 글자 체크 => 태훈이 강의 (🔵)
 > 6. 항목별 max글자수 체크 및 설정할 수 있도록 하여, 그 이상은 넘지 못하게 설정 ()
-### Back
-main 화면: 자소서 종류별 rendering
 
+### Back: 우선 개발
+- main 화면: 자소서 종류별 rendering
+- login api
+- elastic db
 
 
 ## developing by Lim Sunghoo
