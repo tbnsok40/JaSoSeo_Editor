@@ -27,7 +27,7 @@
 - main 화면: 자소서 종류별 rendering
 - login api
 - elastic db
-
+- 수정 이력 확인 가능?
 
 ## developing by Lim Sunghoo
 - 고문: Jang Chihoon, Kim Taehoon
